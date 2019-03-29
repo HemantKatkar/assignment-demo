@@ -29,7 +29,6 @@ export class ItemsComponent implements OnInit {
   }
 
   Submit() {
-    debugger;
     this.submitted = true;
 
     if (!this.itemForm.valid) {
@@ -52,7 +51,6 @@ export class ItemsComponent implements OnInit {
   }
 
   onBlurMethod(event: any) {
-    debugger;
     this.GetOptions(event.target.value);
   }
 
