@@ -1,0 +1,26 @@
+<form [formGroup]="itemForm" (ngSubmit)="Submit()">
+  <div class="col-md-3">
+  <div class="form-group">
+    <label for="infoLabel">Enter your info</label>
+    <input type="text" class="form-control" name="name" (blur)="onBlurMethod($event)" formControlName="infoName" aria-describedby="emailHelp">
+  </div>
+  <div class="form-group">
+    <label for="answer12">Choose best answer</label>
+    <ng-select [items]="projects"
+               bindLabel="name"
+               bindValue="id"
+               groupBy="options"
+               [multiple]="false"
+               [(ngModel)]="selectedProjects"
+               formControlName="answer">
+      <ng-template ng-optgroup-tmp let-item="item">
+        {{item.category}}
+      </ng-template>
+      <ng-template ng-option-tmp let-item="item">
+        {{item.name}}
+      </ng-template>
+    </ng-select>
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</div>
+</form>
