@@ -1,0 +1,12 @@
+C:\Users\pci16.SERVER7\source\repos\AssignmentDemo\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.deps.json
+C:\Users\pci16.SERVER7\source\repos\AssignmentDemo\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.dll
+C:\Users\pci16.SERVER7\source\repos\AssignmentDemo\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.pdb
+C:\Users\pci16.SERVER7\source\repos\AssignmentDemo\Infrastructure\bin\Debug\netcoreapp2.1\ApplicationCore.dll
+C:\Users\pci16.SERVER7\source\repos\AssignmentDemo\Infrastructure\bin\Debug\netcoreapp2.1\ApplicationCore.pdb
+C:\Users\pci16.SERVER7\source\repos\AssignmentDemo\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\pci16.SERVER7\source\repos\AssignmentDemo\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pci16.SERVER7\source\repos\AssignmentDemo\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pci16.SERVER7\source\repos\AssignmentDemo\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.AssemblyInfo.cs
+C:\Users\pci16.SERVER7\source\repos\AssignmentDemo\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.csproj.CopyComplete
+C:\Users\pci16.SERVER7\source\repos\AssignmentDemo\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.dll
+C:\Users\pci16.SERVER7\source\repos\AssignmentDemo\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.pdb
