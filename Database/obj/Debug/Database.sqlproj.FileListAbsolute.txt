@@ -1,0 +1,5 @@
+C:\Users\pci16.SERVER7\source\repos\AssignmentDemo\Database\bin\Debug\Database.dacpac
+C:\Users\pci16.SERVER7\source\repos\AssignmentDemo\Database\bin\Debug\Database.dll
+C:\Users\pci16.SERVER7\source\repos\AssignmentDemo\Database\bin\Debug\Database.pdb
+C:\Users\pci16.SERVER7\source\repos\AssignmentDemo\Database\obj\Debug\Database.dll
+C:\Users\pci16.SERVER7\source\repos\AssignmentDemo\Database\obj\Debug\Database.pdb

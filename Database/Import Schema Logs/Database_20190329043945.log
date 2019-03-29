@@ -1,0 +1,77 @@
+03/29/2019 10:09:45 AM	This log contains information about the import schema operation into project 'Database' on computer 'PCI16' by user 'pci16'.
+03/29/2019 10:09:45 AM	Import of database schema has started.
+03/29/2019 10:09:46 AM	Gathering database options
+03/29/2019 10:09:46 AM	Gathering users
+03/29/2019 10:09:46 AM	Gathering roles
+03/29/2019 10:09:46 AM	Gathering application roles
+03/29/2019 10:09:46 AM	Gathering role memberships
+03/29/2019 10:09:46 AM	Gathering filegroups
+03/29/2019 10:09:46 AM	Gathering full-text catalogs
+03/29/2019 10:09:46 AM	Gathering assemblies
+03/29/2019 10:09:46 AM	Gathering certificates
+03/29/2019 10:09:46 AM	Gathering asymmetric keys
+03/29/2019 10:09:46 AM	Gathering symmetric keys
+03/29/2019 10:09:46 AM	Gathering encrypted symmetric keys
+03/29/2019 10:09:46 AM	Gathering schemas
+03/29/2019 10:09:46 AM	Gathering XML schema collections
+03/29/2019 10:09:46 AM	Gathering user-defined data types
+03/29/2019 10:09:46 AM	Gathering user-defined types
+03/29/2019 10:09:46 AM	Gathering table types
+03/29/2019 10:09:46 AM	Gathering unique keys for table types
+03/29/2019 10:09:46 AM	Gathering primary keys for table types
+03/29/2019 10:09:46 AM	Gathering indexes for table types
+03/29/2019 10:09:46 AM	Gathering check constraints for table types
+03/29/2019 10:09:46 AM	Gathering default constraints for table types
+03/29/2019 10:09:46 AM	Gathering partition functions
+03/29/2019 10:09:46 AM	Gathering partition schemes
+03/29/2019 10:09:46 AM	Gathering functions
+03/29/2019 10:09:46 AM	Gathering encrypted functions
+03/29/2019 10:09:46 AM	Gathering aggregates
+03/29/2019 10:09:46 AM	Gathering procedures
+03/29/2019 10:09:46 AM	Gathering encrypted procedures
+03/29/2019 10:09:46 AM	Gathering tables
+03/29/2019 10:09:46 AM	Gathering primary keys
+03/29/2019 10:09:46 AM	Gathering unique constraints
+03/29/2019 10:09:46 AM	Gathering foreign keys
+03/29/2019 10:09:46 AM	Gathering default constraints
+03/29/2019 10:09:46 AM	Gathering check constraints
+03/29/2019 10:09:46 AM	Gathering views
+03/29/2019 10:09:46 AM	Gathering encrypted views
+03/29/2019 10:09:46 AM	Gathering indexes
+03/29/2019 10:09:46 AM	Gathering statistics
+03/29/2019 10:09:46 AM	Gathering full-text index stoplists
+03/29/2019 10:09:46 AM	Gathering search property lists
+03/29/2019 10:09:46 AM	Gathering search properties
+03/29/2019 10:09:46 AM	Gathering full-text indexes
+03/29/2019 10:09:46 AM	Gathering column store indexes
+03/29/2019 10:09:46 AM	Gathering spatial indexes
+03/29/2019 10:09:46 AM	Gathering XML indexes
+03/29/2019 10:09:46 AM	Gathering Selective XML indexes
+03/29/2019 10:09:46 AM	Gathering encrypted triggers
+03/29/2019 10:09:46 AM	Gathering triggers
+03/29/2019 10:09:46 AM	Gathering encrypted and clr ddl triggers
+03/29/2019 10:09:46 AM	Gathering ddl triggers
+03/29/2019 10:09:46 AM	Gathering synonyms
+03/29/2019 10:09:46 AM	Gathering defaults
+03/29/2019 10:09:46 AM	Gathering data constraint uddt bindings
+03/29/2019 10:09:46 AM	Gathering rules
+03/29/2019 10:09:46 AM	Gathering data constraint uddt bindings
+03/29/2019 10:09:46 AM	Gathering message types
+03/29/2019 10:09:46 AM	Gathering queues
+03/29/2019 10:09:46 AM	Gathering contracts
+03/29/2019 10:09:46 AM	Gathering services
+03/29/2019 10:09:46 AM	Gathering event notifications
+03/29/2019 10:09:46 AM	Gathering remote service bindings
+03/29/2019 10:09:46 AM	Gathering broker priorities
+03/29/2019 10:09:46 AM	Gathering signatures
+03/29/2019 10:09:46 AM	Gathering data compression options
+03/29/2019 10:09:46 AM	Gathering sequence types
+03/29/2019 10:09:46 AM	Gathering extended properties
+03/29/2019 10:09:46 AM	Gathering credentials
+03/29/2019 10:09:46 AM	Gathering logins
+03/29/2019 10:09:46 AM	Gathering server audits
+03/29/2019 10:09:46 AM	Scanning project for duplicate elements
+03/29/2019 10:09:47 AM	Finished duplicate element processing
+03/29/2019 10:09:47 AM	Finished importing database.
+03/29/2019 10:09:47 AM	A summary of the import was saved to the following location: C:\Users\pci16.SERVER7\source\repos\AssignmentDemo\Database\Import Schema Logs\Database_20190329043945.log
+03/29/2019 10:09:47 AM	Click Finish to continue...
