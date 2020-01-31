@@ -1,4 +1,4 @@
-﻿// <copyright file="ApiResult.cs" company="Tatvasoft">
+﻿// <copyright file="ApiResult.cs" company="HK">
 // Copyright (c) Tatvasoft. All rights reserved.
 // </copyright>
 
